@@ -1,0 +1,38 @@
+body {
+  background-color: #eee;
+}
+
+h1 {
+  color: #462700;
+  margin: 0;
+}
+
+h2 {
+  color: #660100;
+  font-style: italic;
+}
+
+hr {
+  border-top: 1px solid black;
+}
+
+.box {
+  position: fixed;
+  left: 33%;
+  top: 33%;
+  width: 33%;
+  font-family: sans-serif;
+  background-color: #FCFAE9;
+  padding: 10px 0 10px 10px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.5)
+}
+
+.title {
+  background-color: #C8BA9F;
+}
+
+.joke {
+  padding: 0 10%;
+}
